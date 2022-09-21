@@ -5,7 +5,7 @@ Program could be run by using next command line arguments:
 
 Where options are
 
-* _-fast-path_ : Return first found path
+* _-fast-path_ : Return first found path, do not use that option if want to find best possible path. Disabled by default
 
 Arguments
 
